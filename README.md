@@ -71,7 +71,7 @@ Demonstrates operator overloading by creating custom equality operators for an E
 
 ## ASP.NET MVC Projects
 
-### [Car Insurance](https://github.com/aadobely/CarInsurance)
+### [Car Insurance](https://github.com/qutira/CarInsurance)
 Full-stack ASP.NET Core MVC web application for calculating car insurance quotes. Uses Entity Framework Core with SQLite database.
 
 **Features:**
@@ -84,7 +84,7 @@ Full-stack ASP.NET Core MVC web application for calculating car insurance quotes
 
 ---
 
-### [Student Database](https://github.com/aadobely/StudentDatabase)
+### [Student Database](https://github.com/qutira/StudentDatabase)
 Entity Framework Code-First console application demonstrating database creation and data persistence.
 
 **Skills:** Entity Framework Core, Code-First approach, DbContext, SQLite
@@ -95,4 +95,4 @@ Entity Framework Code-First console application demonstrating database creation 
 
 These projects were completed as part of the C# and .NET Framework course at Academy of Learning Career College in Toronto (2024-2025).
 
-**Contact:** hasan@adobely.com
+**Contact:** hasan@qutira.com
